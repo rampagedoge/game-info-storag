@@ -1,4 +1,1 @@
-"local players = {
-  'Rampage_Doge'
-  'I_Jix'
-}"
+"return {'Rampage_Doge','I_Jix'}"
