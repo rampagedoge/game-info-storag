@@ -1,0 +1,2 @@
+# game-info-storag
+brughfufghx
